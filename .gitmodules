@@ -1,0 +1,4 @@
+[submodule "OriBlog/public"]
+	path = OriBlog/public
+	url = https://github.com/orikuo/orikuo.github.io.git
+	branch = main

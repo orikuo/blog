@@ -1,0 +1,4 @@
+baseURL = 'https://orikuo.github.io'
+languageCode = 'en-us'
+title = 'Ori Blog'
+theme = 'contrast-hugo'
